@@ -1,0 +1,19 @@
+# Your own music
+music/
+*.mp3
+*.wav
+*.flac
+*.ogg
+
+# Saved song analysis (rebuilt automatically)
+.moodwave_cache/
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# macOS / Windows
+.DS_Store
+Thumbs.db
